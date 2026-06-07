@@ -21,4 +21,4 @@ Diabetic retinopathy screening often relies on identifying visible retinal abnor
 
 ## Notes
 
-This is an older research-code repository. It is kept public as part of a medical-imaging and computer-vision portfolio, with the publication linked above for context.
+This is an older research-code repository. The publication linked above provides additional context for the original work.
